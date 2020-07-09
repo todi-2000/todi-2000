@@ -5,7 +5,7 @@
 
 ### I am Manshi Todi 👩‍💻
 
-##### I am 2nd year undergraduate student.I am Django Developer and Competitive Programmer.
+#### I am 2nd year undergraduate student.I am Django Developer and Competitive Programmer.
 
 
  - 👯 I’m looking to collaborate on Django Projects
