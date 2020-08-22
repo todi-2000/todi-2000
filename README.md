@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/manshitodi-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/manshi-todi-a017a2178/)&nbsp;
 
 
-#### I am 2nd year undergraduate student.I am Django Developer and Competitive Programmer.
+#### I am 3rd year undergraduate student.I am Django Developer and Competitive Programmer.
 
 
  - 👯 I’m looking to collaborate on Django Projects
