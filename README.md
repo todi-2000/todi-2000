@@ -25,7 +25,8 @@
 - 💬 Ask me about anything .
 - ⚡ Fun fact: In my free time, you'll find me watching series or standup comedy.
 
-<h3 align="left">Tech Stack</h3>
+<br>
+<h2 align="left">Tech Stack</h2>
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
 <img src="https://cms-assets.tutsplus.com/uploads/users/45/posts/19786/preview_image/django-rest-framework-wide-retina-preview.gif" alt="djangorestframework" width="60" height="40"/>
 <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
