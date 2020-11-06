@@ -16,7 +16,7 @@
 
 #### I am 3rd year Information Technology undergraduate student at JSSATE Noida. I am Django Developer and Competitive Programmer👩‍💻.
 
-<img align="right" alt="GIF" src="https://webstockreview.net/images/cleaning-clipart-clean-workplace.gif" width="400px"/>
+<img align="right" alt="GIF" src="https://webstockreview.net/images/cleaning-clipart-clean-workplace.gif" width="500px"/>
 
 - 🔭 I’m currently working on **Personal Projects**. 
 - 🌱 I’m currently focusing on **Data structure and Algorithms** and learning **Frontend Development**.
@@ -28,7 +28,7 @@
 <br>
 <br>
 <a href="https://github.com/todi-2000">
-  <img src="https://github-readme-stats.vercel.app/api?username=todi-2000&count_private=true" align="left"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=todi-2000&count_private=true" align="left" />
 </a>
 
 <a href="https://github.com/todi-2000">
