@@ -40,6 +40,8 @@
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/python.svg" alt="python" width="40" height="40"/> 
 <img src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c" width="46" height="46"/> 
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/c122ccfcfdb15d9958a85696ff2460ac3b01f8ca/logos/c-plusplus.svg" alt="cplusplus" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mysql.svg" alt="My-SQL" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/figma.svg" alt="Android" width="40" height="40"/> 
 </p>
 <a href="https://todi-2000.github.io">
   <img src="https://github-readme-stats.vercel.app/api?username=todi-2000&count_private=true" align="center"/>
