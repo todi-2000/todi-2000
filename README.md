@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/@manshitodi-30302f?style=flat&logo=instagram"/>
 </a>
 
-#### I am 3rd year Information Technology undergraduate student at JSSATE Noida. I am a Backend Developer and Competitive Programmer👩‍💻.
+#### I am final year Information Technology undergraduate student at JSSATE Noida. I am a Backend Developer and Competitive Programmer👩‍💻.
 
 <img align="right" alt="GIF" src="https://webstockreview.net/images/cleaning-clipart-clean-workplace.gif" width="400px"/>
 
