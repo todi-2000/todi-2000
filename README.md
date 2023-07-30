@@ -14,10 +14,10 @@
   <img src="https://img.shields.io/badge/@manshitodi-30302f?style=flat&logo=instagram"/>
 </a> -->
 
-#### I am Manshi Todi, SDE-I at Attentive.
+#### I am currently working as SDE-I at Attentive.
 
-- 🔭 I’m currently reading about **System Design**.
-- 👯 I’d like to collaborate on **Django** based projects.
+- 🔭 Currently reading about **System Design**.
+- 👯 Would like to collaborate on **Django** based projects.
 - 📫 Reach me out on my mail **manshitodi@gmail.com**
 - 💬 Ask me about anything.
 - ⚡ In my free time, you'll find me watching series or standup comedy.
