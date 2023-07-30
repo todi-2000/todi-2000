@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/@manshitodi-30302f?style=flat&logo=instagram"/>
 </a> -->
 
-#### I am Manshi Todi, Backend Developer at Attentive.
+#### I am Manshi Todi, SDE-I at Attentive.
 
 - 🔭 I’m currently reading about **System Design**.
 - 👯 I’d like to collaborate on **Django** based projects.
