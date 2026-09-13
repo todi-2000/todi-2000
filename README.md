@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/@manshitodi-30302f?style=flat&logo=instagram"/>
 </a> -->
 
-#### I am currently working as SDE-I at Attentive.
+#### I am currently working as SDE-II at Attentive.
 
 - 🔭 Currently reading about **System Design**.
 - 👯 Would like to collaborate on **Django** based projects.
